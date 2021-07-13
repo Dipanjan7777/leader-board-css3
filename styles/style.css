@@ -111,7 +111,7 @@ hr{
 .course-duration{
     background-color: #FEE5DF;
     border-radius: 15px;
-    padding: 5px;
+    padding: 5px 10px;
 }
 /* media queries */
 @media only screen and (max-width:688px){
